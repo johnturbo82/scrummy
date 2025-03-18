@@ -6,13 +6,9 @@
     "start": "node scrum_cards_server.js"
   },
   "dependencies": {
-    "npm": "~1.1.71",
-    "express": "~3.1.2",
-    "socket.io": "~0.9.16",
-    "yargs": "~1.2.1"
-  },
-  "engines": {
-    "node": "0.8.x"
+    "express": "~4.17.1",
+    "socket.io": "~0.9",
+    "yargs": "~15.3.1"
   },
   "repository": {
     "type": "git",
